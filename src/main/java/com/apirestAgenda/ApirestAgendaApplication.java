@@ -1,0 +1,13 @@
+package com.apirestAgenda;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ApirestAgendaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ApirestAgendaApplication.class, args);
+	}
+
+}
